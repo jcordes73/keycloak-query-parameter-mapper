@@ -1,0 +1,16 @@
+{
+    "authenticators": [
+        {
+            "name": "Query Parameter Authenticator",
+            "fileName": "query-parameter-script-authenticator.js",
+            "description": "Query Parameter Authenticator from a JS file"
+        }
+    ],
+    "mappers": [
+        {
+            "name": "Query Parameter Mapper",
+            "fileName": "query-parameter-script-mapper.js",
+            "description": "QUery Parameter mapper from a JS file"
+        }
+    ]
+}
