@@ -2,15 +2,15 @@
     "authenticators": [
         {
             "name": "Query Parameter Authenticator",
-            "fileName": "query-parameter-script-authenticator.js",
+            "fileName": "query-param-authenticator.js",
             "description": "Query Parameter Authenticator from a JS file"
         }
     ],
     "mappers": [
         {
             "name": "Query Parameter Mapper",
-            "fileName": "query-parameter-script-mapper.js",
-            "description": "QUery Parameter mapper from a JS file"
+            "fileName": "query-param-mapper.js",
+            "description": "Query Parameter mapper from a JS file"
         }
     ]
 }
